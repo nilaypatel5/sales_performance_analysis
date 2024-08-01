@@ -1,5 +1,7 @@
 # Sales Performance Analysis: Leveraging Customer Personality Insights
 
+**To watch the code and download the file, click [here](https://github.com/nilaypatel5/sales-performance-analysis).**
+
 This project focuses on customer personality analysis to optimize sales performance. By segmenting customers, businesses can target specific groups, thereby improving marketing efficiency and increasing sales. We used clustering techniques and the Apriori algorithm to identify key customer segments and their buying behaviors.
 
 ## Getting Started
