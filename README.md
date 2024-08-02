@@ -7,7 +7,7 @@ This project focuses on customer personality analysis to optimize sales performa
 ## Getting Started
 
 ### Prerequisites
-Make sure you have the following Python libraries installed:
+Python libraries used:
 - `numpy`
 - `pandas`
 - `matplotlib`
@@ -80,10 +80,11 @@ print(results.head())
 
 ### Conclusion
 From the analysis, we identified that the biggest consumers of wines are typically:
+
+- Customers with a graduate degree.
 - Customers with an average income of ~$69,500.
 - Customers with an average total spend of ~$1,252.
 - Customers registered for ~21 months.
-- Customers with a graduate degree.
 - Heavy consumers of meat products.
 
 This segmentation helps businesses target the most promising customers, improving marketing efficiency and sales performance.
